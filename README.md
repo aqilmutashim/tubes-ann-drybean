@@ -10,8 +10,11 @@ Proyek ini bertujuan untuk memahami cara kerja Neural Network secara mendalam de
 
 ## Struktur Folder
 ├── src/
+
 │   └── notebooks/
+
 ├── doc/
+
 └── README.md
 
 ## Cara Setup & Run
