@@ -40,13 +40,11 @@ Proyek ini bertujuan untuk memahami cara kerja Neural Network secara mendalam de
 
 ## Pembagian Tugas
 
-## Pembagian Tugas
-
 | Nama                  | NIM        | Tugas                                                               |
 |-----------------------|------------|---------------------------------------------------------------------|
-| Ahmad Aqil Almutashim | 2403029828 | Eksperimen & visualisasi (arsitektur, aktivasi, learning rate, dst) |
-| Suhaila Ade Syafiqa   | 2403020048 | Implementasi ANN from scratch (init, forward, backward)             |
-| Hanif Hidayatullah    | 2403020041 | Implementasi Keras, perbandingan Sklearn, laporan PDF               |
+| Ahmad Aqil Almutashim | 2403029828 | ekperimen 1-7, presentation slide                                   |
+| Suhaila Ade Syafiqa   | 2403020048 | Implementasi ANN from scratch, implementasi keras                   |
+| Hanif Hidayatullah    | 2403020041 | perbandingan Sklearn, laporan PDF                                   |
 
 ## Referensi
 
